@@ -1,28 +1,29 @@
 # Build settings
 gems:
-  - jemoji
+  # - jemoji
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "NTCIR-18 Automatic Evaluation of LLMs (AEOLLM)"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   ©️All Reights Reserved by THUIR 2024
 
-email: a-mail@mail.mail
+email: cjj826@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo1.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/tokyo-night-view-i82930.jpeg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'THUIR'
+author: 'THUIR'
+author_image: "/assets/images/THUIR_logo.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+thuir_url: "http://www.thuir.cn"
+url: "http://www.thuir.cn" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
